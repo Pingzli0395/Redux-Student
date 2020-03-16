@@ -1,5 +1,5 @@
 # Redux-Student
-# Backend(RESTful API) command
+# Backend(RESTful API) 
 -install node.js </br>
 https://nodejs.org/en/download/ </br>
 -install nodemon </br>
